@@ -1,0 +1,21 @@
+.main{
+    background-color: black;
+    height: 650px;
+    padding: 5px 50px 10px 10px;
+  
+
+}
+#output{
+    padding-top: 25px;
+    margin: 50px;
+    background-color: black;
+    height: 500px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 80px;
+    color: coral;
+    background-image: url(https://media0.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47jzrg00v10x75klw6z60vkzksbjiakbrn1ojf2vu8&ep=v1_gifs_search&rid=giphy.gif&ct=g); 
+
+}
+
